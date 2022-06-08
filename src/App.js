@@ -1,10 +1,10 @@
 import './App.css';
-import Message from './components/Message';
+import Count from './components/Count';
 
 function App() {
   return (
     <div className="App">
-      <Message />
+      <Count />
     </div>
   );
 }
