@@ -1,7 +1,6 @@
 import React from 'react';
 
 const Greet = (props) => {
-  console.log(props);
   return (
     <div className="container bg-warning mb-2">
       <h3>
